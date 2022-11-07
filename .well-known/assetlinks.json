@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ch.css.mycss.dev",
+      "sha256_cert_fingerprints": [
+        "FD:E6:BD:1B:44:50:C8:77:70:AC:AC:8E:CB:9B:99:E0:C6:A6:23:80:E4:0E:1D:1F:CB:F2:F6:B0:9C:C7:71:5B"
+      ]
+    }
+  }
+]
